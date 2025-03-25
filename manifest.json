@@ -1,7 +1,7 @@
 {
   "name": "HablaMe",
   "short_name": "HablaMe",
-  "start_url": "/",
+  "start_url": "https://hablame.is/log-in",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
